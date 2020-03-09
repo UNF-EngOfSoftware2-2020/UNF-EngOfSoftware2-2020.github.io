@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMA", "SOMA\SOMA\SOMA.csproj", "{45EE0017-E8E6-4C52-85C9-CB180F24D7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "SOMA\DAL\DAL.csproj", "{FD83F83F-63D8-4DA7-811E-818D249088F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EE0017-E8E6-4C52-85C9-CB180F24D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EE0017-E8E6-4C52-85C9-CB180F24D7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EE0017-E8E6-4C52-85C9-CB180F24D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EE0017-E8E6-4C52-85C9-CB180F24D7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD83F83F-63D8-4DA7-811E-818D249088F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD83F83F-63D8-4DA7-811E-818D249088F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD83F83F-63D8-4DA7-811E-818D249088F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD83F83F-63D8-4DA7-811E-818D249088F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D41DAEC-C656-4CBA-BFDE-445DE094BB96}
+	EndGlobalSection
+EndGlobal
