@@ -1,0 +1,210 @@
+{
+            "created_at": "Sun Mar 29 19:12:34 +0000 2020",
+            "id": 1244341698207064064,
+            "id_str": "1244341698207064064",
+            "text": "RT @OspreyMGolf: While disappointed to not be playing THE HAYT this year, we still want to say thanks to tournament namesake and legendary…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "OspreyMGolf",
+                        "name": "UNF Men's Golf",
+                        "id": 622058742,
+                        "id_str": "622058742",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 174783764,
+                "id_str": "174783764",
+                "name": "University of North Florida",
+                "screen_name": "UofNorthFlorida",
+                "location": "Jacksonville, Florida",
+                "description": "The official University of North Florida Twitter. #UNFSocial",
+                "url": "https://t.co/uB96kR2baY",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/uB96kR2baY",
+                                "expanded_url": "http://www.unf.edu",
+                                "display_url": "unf.edu",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 10573,
+                "friends_count": 355,
+                "listed_count": 163,
+                "created_at": "Wed Aug 04 20:29:12 +0000 2010",
+                "favourites_count": 4083,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 9620,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "003180",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1229850496971739136/YshAjTPh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229850496971739136/YshAjTPh_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/174783764/1582555248",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 29 13:00:00 +0000 2020",
+                "id": 1244247938517184518,
+                "id_str": "1244247938517184518",
+                "text": "While disappointed to not be playing THE HAYT this year, we still want to say thanks to tournament namesake and leg… https://t.co/4IBwatwo4R",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/4IBwatwo4R",
+                            "expanded_url": "https://twitter.com/i/web/status/1244247938517184518",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 622058742,
+                    "id_str": "622058742",
+                    "name": "UNF Men's Golf",
+                    "screen_name": "OspreyMGolf",
+                    "location": "Jacksonville, Fla.",
+                    "description": "Official Twitter account of the University of North Florida Men's Golf team. #SWOOPLife",
+                    "url": "https://t.co/LrxVfVsmCy",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/LrxVfVsmCy",
+                                    "expanded_url": "http://www.unfospreys.com",
+                                    "display_url": "unfospreys.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 983,
+                    "friends_count": 68,
+                    "listed_count": 23,
+                    "created_at": "Fri Jun 29 15:10:11 +0000 2012",
+                    "favourites_count": 141,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1174,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/898574085185253376/M5pCE-o8_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898574085185253376/M5pCE-o8_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/622058742/1562681419",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "A8C7F7",
+                    "profile_sidebar_fill_color": "C0DFEC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 14,
+                "favorite_count": 77,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
